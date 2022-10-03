@@ -130,6 +130,6 @@ dmypy.json
 
 
 #image files
-.png
-.jpg
-.jpeg
+*.png
+*.jpg
+*.jpeg
