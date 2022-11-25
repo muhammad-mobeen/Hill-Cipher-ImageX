@@ -157,6 +157,6 @@ if __name__ == "__main__":
         for i in Key.ravel():
             key_str += conv_ascii(int(i))
         print("Key:",key_str)
-        encrypt(str(input("Enter Image path: ")))
+        encrypt(str("test_images/" + input("Enter Image path: ")))
         print("Encryption Done!")
         decrypt("encrypted.png")
