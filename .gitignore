@@ -137,3 +137,5 @@ dmypy.json
 
 # Custom
 test_images/
+encrypted.png
+decrypted.png
